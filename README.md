@@ -10,7 +10,6 @@
 | 21/1030756  | Gabriela Silva Alves |
 
 ## Sobre
-## Sobre o Projeto
 
 Este repositório apresenta soluções para quatro problemas do LeetCode, organizadas por linguagem e nível de dificuldade:
 
@@ -29,6 +28,9 @@ Este repositório apresenta soluções para quatro problemas do LeetCode, organi
 #### C\#
 - Cheapest Flights Within K Stops
 ![Cheapest Flights Within K Stops](./assets/cheapestflights.png)
+
+- Cheapest Flights Within K Stops
+![Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](./assets/findCritical.png)
 
 ---
 
@@ -50,6 +52,7 @@ Este repositório apresenta soluções para quatro problemas do LeetCode, organi
 ### 3. Compilar e executar soluções C#
 
 Os comandos a seguir devem ser executados a partir da raiz do repositório clonado.
+> OBS.: Para submssão em juízes como leetcode, submeter apenas classe Solution.
 
 #### Executando as Soluções
 
@@ -66,7 +69,7 @@ dotnet run --project Solutions/csharp/CheapestFlights
 Para compilar e executar a validação desta questão, utilize o comando:
 
 ```bash
-dotnet run --project Solutions/csharp/FindCritial
+dotnet run --project Solutions/csharp/FindCritical
 ```
 
 ## Apresentação
