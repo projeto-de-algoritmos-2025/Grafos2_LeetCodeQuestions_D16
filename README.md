@@ -77,7 +77,7 @@ dotnet run --project Solutions/csharp/FindCritical
 
 ## Apresentação
 
-Vídeo disponível em: [xxx](xxx)
+Vídeo disponível em: [Apresentação D16]([xxx](https://youtu.be/ZISNHHjXy4w))
 
 ## Outros
 
