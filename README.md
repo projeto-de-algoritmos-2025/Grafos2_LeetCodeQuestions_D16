@@ -28,6 +28,15 @@ Este repositório apresenta soluções para quatro problemas do LeetCode, organi
 
 ### Visualização 
 
+#### C++
+
+- Network Delay Time
+![Network Delay Time](https://github.com/user-attachments/assets/d240de6d-96fe-4a66-a16b-b38b7f5fbb4f)
+
+- Maximize Spanning Tree Stability with Upgrades
+![Maximize Spanning Tree Stability with Upgrades](https://github.com/user-attachments/assets/19c4cf3f-6221-447b-abdf-12e542ef89e2)
+
+
 #### C\#
 - Cheapest Flights Within K Stops
 ![Cheapest Flights Within K Stops](./assets/cheapestflights.png)
