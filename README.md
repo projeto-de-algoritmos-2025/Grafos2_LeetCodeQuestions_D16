@@ -4,17 +4,19 @@
 
 ## Alunos
 
-|Matrícula | Aluno |
-| -- | -- |
-| 21/1031673  | Cauã Matheus |
-| 21/1030756  | Gabriela Silva Alves |
+| Matrícula  | Aluno                |
+| ---------- | -------------------- |
+| 21/1031673 | Cauã Matheus         |
+| 21/1030756 | Gabriela Silva Alves |
 
 ## Sobre
 
 Este repositório apresenta soluções para quatro problemas do LeetCode, organizadas por linguagem e nível de dificuldade:
 
 ### C++
-- [3600. Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/?envType=problem-list-v2&envId=minimum-spanning-tree) **(Hard)**
+- [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) **(Medium)**
+
+- [3600. Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/description/) **(Hard)**
 
 ---
 
