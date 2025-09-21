@@ -14,6 +14,7 @@
 Este repositório apresenta soluções para quatro problemas do LeetCode, organizadas por linguagem e nível de dificuldade:
 
 ### C++
+- [3600. Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/?envType=problem-list-v2&envId=minimum-spanning-tree) **(Hard)**
 
 ---
 
