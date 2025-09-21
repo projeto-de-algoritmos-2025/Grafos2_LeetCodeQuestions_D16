@@ -52,6 +52,27 @@ Este repositório apresenta soluções para quatro problemas do LeetCode, organi
 
 ### 2. Compilar e executar C++
 
+Os comandos a seguir devem ser executados a partir da raiz do repositório clonado.
+> OBS.: Para submssão em juízes como leetcode, submeter apenas classe Solution.
+
+#### Executando as Soluções
+
+#### **Questão 743. Network Delay Time**
+
+Para compilar e executar a validação desta questão, utilize o makefile ou utilize o comando a seguir:
+
+```bash
+g++ ./Solutions/cpp/NetworkDelayTime.cpp -o ./out.o && ./out.o && rm ./out.o
+```
+
+#### **3600. Maximize Spanning Tree Stability with Upgrades**
+
+Para compilar e executar a validação desta questão, utilize o comando:
+
+```bash
+g++ ./Solutions/cpp/MaximizeSpanningTreeStabilityWithUpgrades.cpp -o ./out.o && ./out.o && rm ./out.o
+```
+
 ### 3. Compilar e executar soluções C#
 
 Os comandos a seguir devem ser executados a partir da raiz do repositório clonado.
